@@ -46,9 +46,14 @@ Este projeto foi construído utilizando [**React.js**](https://react.dev/). e [*
 
 ## Versão web
 <div align="center">
-  <img src="https://github.com/junior10soares/JR-DEVlivery/blob/master/src/assets/web.png" alt="Captura de tela de 2024-04-18 00-39-47" width="800" height='400'/>
+  <img src="https://github.com/junior10soares/T-Alpha/blob/master/src/assets/a.png" alt="" width="800" height='400'/>
 </div>
-
+<div align="center">
+  <img src="https://github.com/junior10soares/T-Alpha/blob/master/src/assets/b.png" alt="" width="800" height='400'/>
+</div>
+<div align="center">
+  <img src="https://github.com/junior10soares/T-Alpha/blob/master/src/assets/c.png" alt="" width="800" height='400'/>
+</div>
 <br/>
 
 ## 🛠 Tecnologias e Bibliotecas
